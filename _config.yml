@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://davecastlevania.github.io/alf/
+url: https://davecastlevania.github.io/
 author: David Castaneda
 
 # edit this section with your information
@@ -16,19 +16,19 @@ author: David Castaneda
 baseurl: /
 title: David Alfonso Castaneda's Resume
 name: David Alfonso Castaneda
-email: d.alfonso.castaneda@gmail.com
-email_full: mailto:d.alfonso.castaneda@gmail.com
+email: davecastlevania@gmail.com
+email_full: mailto:davecastlevania@gmail.com
 website: github.io/davecastlevania
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+website_full: https://davecastlevania.github.io/
+github: davecastlevania
+twitter: davecastlevania
+tel: +1 423 521 0386
+tel_full: tel:+4235210386
+google_maps: 'https://www.google.com/maps/place/5001+Club+Dr,+Chattanooga,+TN+37411/@35.013969,-85.228223,17z/data=!3m1!4b1!4m5!3m4!1s0x886066de7df0a205:0x94a05b3b6d236847!8m2!3d35.013969!4d-85.226029'
+address: 5001 Club Drive
+postcode: 37411
+city: Chattanooga, TN
+country: United States
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
