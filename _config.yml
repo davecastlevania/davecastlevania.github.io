@@ -14,20 +14,20 @@ author: David Castaneda
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: David Alfonso Castaneda's Resume
-name: David Alfonso Castaneda
-email: davecastlevania@gmail.com
-email_full: mailto:davecastlevania@gmail.com
+title: David A Castaneda's Resume
+name: David A Castaneda
+email: d.alfonso.castaneda@gmail.com
+email_full: mailto:d.alfonso.castaneda@gmail.com
 website: My Portfolio
 website_full: https://polar-harbor-94853.herokuapp.com
 github: davecastlevania
-twitter: davecastlevania
+# twitter: davecastlevania
 tel: +1 423 521 0386
 tel_full: tel:+4235210386
-google_maps: 'https://www.google.com/maps/place/5001+Club+Dr,+Chattanooga,+TN+37411/@35.013969,-85.228223,17z/data=!3m1!4b1!4m5!3m4!1s0x886066de7df0a205:0x94a05b3b6d236847!8m2!3d35.013969!4d-85.226029'
-address: 5001 Club Drive
-postcode: 37411
-city: Chattanooga, TN
+google_maps: 'https://www.google.com/maps/place/Atlanta+GA'
+address: 1441 Woodmont Ln NW Unit 423
+postcode: 30318
+city: Atlanta, GA
 country: United States
 google_analytics: UA-69300817-1
 

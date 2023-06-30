@@ -1,22 +1,8 @@
 
-# Vitae
+# DAC Resume
 
-[![Build Status](https://secure.travis-ci.org/biomadeira/vitae.png?branch=gh-pages)](http://travis-ci.org/biomadeira/vitae)
-
-Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
-Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
+Personal resume (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume). Built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/).
-
-
-## View the live demo
-
-[Vitae Live Demo](https://biomadeira.github.io/vitae)
-
-
-## Screenshots
-
-![resume page](https://raw.githubusercontent.com/biomadeira/vitae/gh-pages/assets/images/vitae_screen.png)
-
 
 ## How to use it
 
@@ -29,17 +15,9 @@ I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. I
 
 Feel free pull-request your patches and fixes.
 
-
-## Thanks 
-
-A lot of the work had been already done by the Joao. Many thanks to him :smile:
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
 ## Copyright & License
 
-Copyright (C) 2015 - Released under the MIT License.
+Copyright (C) 2023 - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
