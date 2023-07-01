@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}static/css/base.css">
     <link rel="stylesheet" href="{{ site.baseurl }}static/css/skeleton.css">
     <link rel="stylesheet" href="{{ site.baseurl }}static/css/layout.css">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -43,8 +43,14 @@
             <!-- <a href="{{ site.website_full }}"><h6>{{ site.website }}</h6></a><br/> -->
 
         <p>
+            <i class="fa-solid fa-envelope"></i>
             <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
-            <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i> Github</a>
+            <a href="https://github.com/{{ site.github }}"><i class="fa-brands fa-github"></i> Github</a><br/><br/>
+            <strong>One Page Resume</strong><br/>
+            <i class="fa fa-file-word"></i>
+            <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.docx" target="_blank" >Word</a>
+            <i class="fa fa-file-pdf"></i>
+            <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.pdf" target="_blank">PDF</a>
             <!--  # We don't fuck with Elon -->
             <!-- <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a> -->
         </p>
