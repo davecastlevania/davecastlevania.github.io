@@ -25,35 +25,48 @@
 <body>
 <div class="container">
     <header class="four columns">
-        <img src="{{ site.baseurl }}static/img/profile.jpg" class="me">
-        <h1>{{ site.name }}</h1>
-        <p>
-            <a href="{{ site.tel_full }}">{{ site.tel }}</a>
-        </p>
-        <address>
-            <a href="{{ site.google_maps }}">
-                {{ site.address1 }}<br/>
-                #{{ site.address2 }}<br/>
-                {{ site.city }} {{ site.postcode }}<br/>
-                {{ site.country }}
-            </a>
-        </address>
-
-            <!-- Portfolio to be Updated -->
-            <!-- <a href="{{ site.website_full }}"><h6>{{ site.website }}</h6></a><br/> -->
-
-        <p>
-            <i class="fa-solid fa-envelope"></i>
-            <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
-            <a href="https://github.com/{{ site.github }}"><i class="fa-brands fa-github"></i> Github</a><br/><br/>
-            <strong>One Page Resume</strong><br/>
-            <i class="fa fa-file-word"></i>
-            <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.docx" target="_blank" >Word</a>
-            <i class="fa fa-file-pdf"></i>
-            <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.pdf" target="_blank">PDF</a>
-            <!--  # We don't fuck with Elon -->
-            <!-- <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a> -->
-        </p>
+            <img src="{{ site.baseurl }}static/img/profile.jpg" class="me">
+            <h1>{{ site.name }}</h1>
+            <p>
+                <a href="{{ site.tel_full }}">{{ site.tel }}</a>
+            </p>
+            <address>
+                <a href="{{ site.google_maps }}">
+                    {{ site.address1 }}<br/>
+                    #{{ site.address2 }}<br/>
+                    {{ site.city }} {{ site.postcode }}<br/>
+                    {{ site.country }}
+                </a>
+            </address>
+    
+                <!-- Portfolio to be Updated -->
+                <!-- <a href="{{ site.website_full }}"><h6>{{ site.website }}</h6></a><br/> -->
+    
+            <p>
+                <i class="fa-solid fa-envelope"></i>
+                <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
+                <a href="https://github.com/{{ site.github }}"><i class="fa-brands fa-github"></i> Github</a><br/><br/>
+                <strong>One Page Resume</strong><br/>
+                <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.docx" target="_blank" >
+                    <i class="fa fa-file-word"></i>
+                    Word
+                </a>
+                <a href="{{ site.baseurl }}static/docs/DavidACastaneda-2023-OnePage.pdf" target="_blank">
+                    <i class="fa fa-file-pdf"></i>
+                    PDF
+                </a><br/>
+                <strong>Full Resume</strong><br/>
+                <a href="{{ site.baseurl }}static/docs/DavidACastaneda-LongResume-2023.docx" target="_blank" >
+                    <i class="fa fa-file-word"></i>
+                    Word
+                </a>
+                <a href="{{ site.baseurl }}static/docs/DavidACastaneda-LongResume-2023.pdf" target="_blank">
+                    <i class="fa fa-file-pdf"></i>
+                    PDF
+                </a>
+                <!--  # We don't fuck with Elon -->
+                <!-- <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a> -->
+            </p>    
     </header>
     <div class="twelve columns clearfix">
 
